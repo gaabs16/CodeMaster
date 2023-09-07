@@ -1,5 +1,2 @@
 # CodeMaster
-Trabalho 1UC 
--- integrantes:
-Matheus José
-Gabriella Hernandes
+Trabalho 1UC
